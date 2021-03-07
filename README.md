@@ -20,5 +20,7 @@ resources from. Going to keep track of that here.
 1. Modified the image to be smaller and wider. Now called "gear_image_smaller.png"
 https://unsplash.com/photos/xH2W1G5VJpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 
-2. 
+2. Using this as the main background, renamed to "space_bg.jpg" since there seems to be issues
+with anything with "-" in the file path.
+https://unsplash.com/photos/E0AHdsENmDg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 

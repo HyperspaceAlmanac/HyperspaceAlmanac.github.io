@@ -1,3 +1,11 @@
+body {
+    background-image: url("../images/space_bg.jpg");
+    height: 100vh;
+
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .image-and-text {
     position: relative;
 }
@@ -7,7 +15,10 @@
 }
 .text-over-image {
     position: absolute;
+    color: white;
     top: 33%;
     left: 10%;
     width: 80%;
+    opacity: 1;
 }
+
