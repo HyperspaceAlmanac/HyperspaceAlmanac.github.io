@@ -24,6 +24,9 @@ body {
 .white-text {
     color: white;
 }
+.carousel {
+    margin: 0 auto;
+}
 
 .disclaimer-footnote {
     color: white;
@@ -32,4 +35,20 @@ body {
     left: 0;
     bottom: 0;
 }
+.carousel-item {
+    z-index: 1;
+}
 
+.carousel-control-prev {
+    z-index: 1;
+    left:-10%
+}
+
+.carousel-control-next {
+    z-index: 1;
+    right:-10%;
+}
+.hyperlink-in-container {
+    z-index: 2;
+    text-align: center;
+}

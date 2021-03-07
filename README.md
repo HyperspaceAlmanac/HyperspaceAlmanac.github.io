@@ -30,5 +30,9 @@ https://unsplash.com/photos/hYKG311mff8?utm_source=unsplash&utm_medium=referral&
 4. Used part of this image to make the slide show image of Robot vs Dinosaur 2
 https://unsplash.com/photos/MECKPoKJYjM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 
-5. Used scaled down version of this image saved as "scifiTunnel" for machine learning project
+5. Saved the scaled down version of this image as "scifiTunnel" for machine learning project placeholder image
 https://unsplash.com/photos/KnLj3o9A66E?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
+6. Saved the scaled dwown version of this image as "mobileScreen" for mock mobile game project placeholder image
+https://unsplash.com/photos/KbpjCGIcfbo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
