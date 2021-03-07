@@ -14,3 +14,11 @@ Since I am kind of a private person, I will probably not share actual contact in
 I do not own any of the images used, and will use very visible disclaimers when I use
 those images as placeholders for projects that I have not actually done.
 
+It is also probably a good idea to get into the habit of keeping track of where I got 
+resources from. Going to keep track of that here.
+
+1. Modified the image to be smaller and wider. Now called "gear_image_smaller.png"
+https://unsplash.com/photos/xH2W1G5VJpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
+2. 
+
