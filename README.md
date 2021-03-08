@@ -11,10 +11,10 @@ just place holders and not actual projects that I have done (they will be labele
 I will limit the contact information shared to places that already link to this github repo.
 
 # Brief overiew
-The wireframe files as well as the screenshots of them are saved to the root directory.
+The wireframe files as well as the screenshots of them are saved to the "design" directory.
 Mobile and desktop wireframe screenshots are saved separately, but they are in the same Adobe.xd file.
-I have saved a DesignChoices.txt file to explain some of the design choices made and why
-I changed them in the actual implementation.
+I have saved a DesignChoices.txt file into the same directory to explain some of the design choices
+made and why I changed them in the actual implementation.
 
 # I am going to use images from https://unsplash.com/ to make the website look better.
 The images used from the website will be listed below with brief description of modifications done and what it is renamed to.
