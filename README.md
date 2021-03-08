@@ -11,10 +11,10 @@ just place holders and not actual projects that I have done (they will be labele
 I will limit the contact information shared to places that already link to this github repo.
 
 # I am going to use images from https://unsplash.com/ to make the website look better.
-The images used from the website will be listed below with breif description of modifications done and what it is renamed to.
+The images used from the website will be listed below with brief description of modifications done and what it is renamed to.
 Most images will be scaled down a bit and set to fit certain dimensions.
 I started with "-" but the file path is not recognized. I tried both "_" and camelCasing, and have decided to use
-camel casing for everything ot keep it consistent.
+camelCasing for everything to keep it consistent.
 
 1. Modified the image to be smaller and wider. Now called "gearImageSmaller.png"
 https://unsplash.com/photos/xH2W1G5VJpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
