@@ -33,7 +33,7 @@ body {
     position: fixed;
     text-align: left;
     left: 0;
-    bottom: 5%;
+    bottom: 0;
 }
 .carousel-item {
     z-index: 1;
@@ -53,4 +53,8 @@ body {
 .hyperlink-in-container {
     z-index: 2;
     text-align: center;
+}
+
+#about-section {
+    margin: 5vh auto;
 }
