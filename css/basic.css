@@ -25,6 +25,23 @@ body {
     display:block;
     opacity: 1;
 }
+.text-contact-info-desktop {
+    position: absolute;
+    color: white;
+    display:block;
+    opacity: 1;
+    top: 30%;
+    left: 15%;
+}
+
+.text-contact-info-mobile {
+    position: absolute;
+    color: white;
+    display:block;
+    opacity: 1;
+    top: 10%;
+    left: 5%;
+}
 .text-over-image-mobile {
     position: absolute;
     color: white;
