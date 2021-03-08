@@ -80,12 +80,12 @@ body {
 
 .carousel-control-prev {
     z-index: 1;
-    left:-10%
+    left:-7%
 }
 
 .carousel-control-next {
     z-index: 1;
-    right:-10%;
+    right:-7%;
 }
 .hyperlink-in-container {
     z-index: 2;
