@@ -10,6 +10,12 @@ I will be trying to make it as professional as possible, but some aspects such a
 just place holders and not actual projects that I have done (they will be labeled as such).
 I will limit the contact information shared to places that already link to this github repo.
 
+# Brief overiew
+The wireframe files as well as the screenshots of them are saved to the root directory.
+Mobile and desktop wireframe screenshots are saved separately, but they are in the same Adobe.xd file.
+I have saved a DesignChoices.txt file to explain some of the design choices made and why
+I changed them in the actual implementation.
+
 # I am going to use images from https://unsplash.com/ to make the website look better.
 The images used from the website will be listed below with brief description of modifications done and what it is renamed to.
 Most images will be scaled down a bit and set to fit certain dimensions.
