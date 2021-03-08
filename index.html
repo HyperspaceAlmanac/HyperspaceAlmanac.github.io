@@ -22,14 +22,34 @@
         <div class="container">
             <div class="row">
                 <div class="image-and-text">
-                    <img src="images/gear_image_smaller.png" alt="Image of gears" class="background-image img-responsive col-lg-8 col-sm-12 rounded float-left">
-                    <h2 class="text-over-image col-lg-12">Welcome to my Portfolio website!</h2>
+                    <img src="images/gear_image_smaller.png" alt="Image of gears" class="background-image img-responsive col-sm-12 col-md-8">
+                    <h2 class="text-over-image center-text d-none d-sm-none d-md-block">Welcome to my Portfolio website!</h2>
+                    <h4 class="text-over-image-mobile center-text d-block d-sm-block d-md-none">Welcome to my Portfolio website!</h4>
                 </div>
             </div>
         </div>
-        <div class="container">
-            <h2 class="white-text">Here are some of the exciting projects that I have been working on:</h2>
+        <div class="container d-none d-sm-none d-md-block">
+            <h2 class="white-text">Here are some of the exciting projects that I have been working on!</h2>
+            <a href="projects.html" class="text-white bg-dark">Click here to visit the projects page.</a>
+            <div class="row">
+                <img src="images/battleship.png" alt="Screenshot of battleship game" class="img-responsive col-6">
+                <img src="images/robotVsDino2.png" alt="Robot vs Dinosaur 2 image" class="img-responsive col-6">
+            </div>
+            <div class="row">
+                <div class="white-text col-6"><h3>Battleship Game</h3></div>
+                <div class="white-text col-6"><h3>Turn Based Strategy Game</h3></div>
+            </div>
         </div>
+        <div class=" container row d-block d-sm-block d-md-none col-12">
+            <h5 class="white-text">Here is one of the exciting projects that I have been working on! Click to visit the projects page.</h5>
+            <div class="image-and-text">
+                <a href="projects.html">
+                    <img src="images/robotVsDino2.png" alt="Robot vs Dinosaur 2 image" class="img-responsive col-12">
+                </a>
+                <h5 class="white-text">Turn Based Strategy Game</h5>
+            </div>
+        </div>
+        
         <div class="disclaimer-footnote">Disclaimer: This is a portfolio website project for educational purposes.</div>
     </body>
 </html>
