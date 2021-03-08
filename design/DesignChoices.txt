@@ -2,20 +2,22 @@
 # This file will explain some of the design choices, especially on why some changes are made from the initial wireframe to the final design.
 ########################
 
-Some of the designs in th wireframe were made before I realized that I should have started with smaller screen first. I then designed the
-mobile wireframe around what I had for regular sized browsers. In addition, I did not realize all of the technical limitations during the
-design process, and thus had to significantly change some of the design.
+Some of the designs in th wireframe were made before I realized that I should have started with smaller screens first. I designed the
+mobile wireframe around what I have already done. In addition, I did not realize all of the technical limitations during the early
+design process, and thus had to significantly alter some of the design.
 
-For the actual implementation, I did both mobile and desktop browser at the same where I would confirm that they both look good before moving on.
-For when there would be too much / too little space, I split them into mobile and desktop only display.
+For the actual implementation, I implemented mobile and desktop browser at the same where I would confirm that they both looked good before moving on.
+Mobile and desktop versions may display different thigns for certain components.
 
 ####################
 # Background image
 ####################
-I wanted something that looked good and kind kind of space related. I picked one that looked nice.
+I wanted something that looked good and kind of space and Science Fiction related. I picked a space image that looked nice.
 In hindsight the white/yellow on blue might have been a bad idea since the complenetary colors such as green against blue
 feel a bit unprofessional. White text below a certain font size do kind of blend in with the stars.
-I looked around a bit but did not really find anything that I feel is much better. I will have to research this topic more.
+I looked around a bit but did not really find anything that I feel is much better.
+From what I understand front end design works around certain color palettes and style guidelines.
+I will have to look into this some more.
 
 ################
 # 1. Home page
@@ -24,21 +26,20 @@ I looked around a bit but did not really find anything that I feel is much bette
 I am not too familiar with design, so I wanted something simple but aestatically pleasing.
 I remember reading about how the eye naturally scans from upper left to bottom right.
 
-And thus, I wanted to do a simple design with navigation on top left, welcome message a bit to the right of it, quick About Me snippet, and Quick Contact Info at the bottom.
-I wanted something on top right to fill out the space to have something a bit more in the background.
+I wanted to do a simple design with navigation on top left, welcome message a bit to the right of it, quick About Me snippet, and Quick Contact Info at the bottom.
+I wanted something in the background on top right to fill out the space.
 
-I tried using container class and using columns to make the page responsive, and positioning the components quickly became a nightmare.
-Positioning one thing breaks something else, and I decided that just having a centered welcome message looked good. I also decided not
-to do the spherical image off on the side since the welcome message is now centered.
+I tried using container class and using columns to make the page responsive, but positioning the components quickly became a nightmare.
+Positioning one thing breaks something else, and I decided that just having a centered welcome message also looked pretty good. I also decided to
+not do the spherical image off on the side since the welcome message is now centered.
 
-For the website background space came to mind, but for welcome message I wanted something clockwork and mechanical. The clockworks image I found looked nice.
+For the welcome message, I wanted something clockwork and mechanical related. The clockwork image I found looked nice as background to the welcome message.
 
 From a philosophical perspective, I want my work to be the center stage and so I decided to
-include featured project(s) instead of an About me snippet.
-I removed the quick contact info section since it might clash with the featured projects section.
+include featured projects instead of an "About Me" snippet.
+I removed the quick contact info section since it clashed with the featured projects section.
 
 For the featured projects, I decided to show one project on smaller screen, and two on desktop browser.
-It looked good so I implemented this.
 In terms of the design choice for user to click on link to go to project page versus clicking on image on mobile:
 
 a. Desktop site has two projets, and to have the image link directly to a position in carousel
@@ -51,32 +52,33 @@ can easily click on the link.
 # 2. About Me page
 #####################
 
-I originally planned for two highlights below the large picture and quick bio, but since the Home page now has two featured projects, it is not needed here any more.
+I originally planned for there to be two featured projects below the large selfie and quick bio.
+Since the featured projects are now on the Home page, I just went ahead and removed it from the "About Me" page.
 
-I have decided that I wanted something simple for this part.
-I limited it to a selfie that is displayed as almost full container size on mobile with brief description, but 1/4 of the container on desktop with a longer description.
+I have decided that I wanted something simple for the selfie and bio.
+I limited it to a selfie that is displayed as almost full container size on mobile with brief description, and 1/4 of the container on desktop with a longer description.
 
 #####################
 # 3. Projects page.
 #####################
 
-I originally wanted a lot of projects and have many display on screen at a time on Desktop, and just one displayed on mobile.
-Since I wanted to focus on the HTML and CSS side, I kind of stuck to the basic Carousel features from Bootstrap of just one project displayed at a time.
+I originally wanted a lot of projects to be displayed at the same time on desktop (mobile is still just one at a time).
+Since I wanted to focus on the HTML and CSS side, I kind of stuck to the basic Carousel class from Bootstrap for just one slide displayed at a time.
 
-I made all of the projects images the same size, but the different sized descriptions still caused the left and right srolling arrows to be at different heights.
+I made all of the project (slide) images the same size, but the different sized descriptions still caused the left and right srolling arrows to be at different heights.
 This will have to be something that I come back to at the end.
 I am looking into box-sizing, margin, padding and how those interact inside of a container.
 
-In this case the desktop and mobile website looked pretty similar. Both ended up being kind of close to the mobile wire frame.
+In this case the desktop and mobile website looked pretty similar. Both ended up being kind of close to the mobile wireframe design.
 
 ###############
 # 4. Contact
 ###############
 
-I originally wanted to do something with forms and multiple fields, but have decided to instead just do simple
+I originally wanted to do something with forms and multiple fields, but have decided to just do simple
 hyperlinks to LinkedIn and github, and provide my email address.
 
 For the planned interesting background images, I decided to go with something green since it complements blue.
 I wanted to avoid something nature related, and so I ended up with some green lines.
-The end result looked decent.
+The end result looked decent, but unfortunatley still kind of blend in with the hyperlink color.
 I scaled the three parts of the contact information differently for mobile and desktop.
