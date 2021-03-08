@@ -63,6 +63,10 @@ I limited it to a selfie that is displayed as almost full container size on mobi
 I originally wanted a lot of projects and have many display on screen at a time on Desktop, and just one displayed on mobile.
 Since I wanted to focus on the HTML and CSS side, I kind of stuck to the basic Carousel features from Bootstrap of just one project displayed at a time.
 
+I made all of the projects images the same size, but the different sized descriptions still caused the left and right srolling arrows to be at different heights.
+This will have to be something that I come back to at the end.
+I am looking into box-sizing, margin, padding and how those interact inside of a container.
+
 In this case the desktop and mobile website looked pretty similar. Both ended up being kind of close to the mobile wire frame.
 
 ###############
