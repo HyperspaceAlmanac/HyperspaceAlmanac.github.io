@@ -36,3 +36,5 @@ https://unsplash.com/photos/KnLj3o9A66E?utm_source=unsplash&utm_medium=referral&
 6. Saved the scaled dwown version of this image as "mobileScreen" for mock mobile game project placeholder image
 https://unsplash.com/photos/KbpjCGIcfbo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 
+7. Saved and scaled down version of this image as "cryptoCurrency" for mock CryptoCurrency chain project placeholder image
+https://unsplash.com/photos/OG3A-ilG8AY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
