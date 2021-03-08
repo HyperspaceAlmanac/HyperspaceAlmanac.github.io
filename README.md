@@ -11,7 +11,7 @@ Some aspects such as some of the projects are place holders (they will be labele
 get more practice with website layout.
 I will limit the contact information shared to places that already link to this github repo.
 
-# Brief overiew
+# Brief overview
 The wireframe files as well as the screenshots of them are saved to the "design" directory.
 Mobile and desktop wireframe screenshots are saved separately, but they are in the same Adobe.xd file.
 I have saved a DesignChoices.txt file into the same directory to explain some of the design choices
