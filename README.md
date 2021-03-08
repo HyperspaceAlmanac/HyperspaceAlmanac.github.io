@@ -3,11 +3,12 @@ Portfolio Website Project
 
 # Disclaimer:
 # This is a project for making a portfolio website
-This is not my official website, and is mainly for educational purposes of attempting to create
-a professional looking portfolio website.
+This website is mainly for educational purposes where it will have limited information
+and is a snapshot of my progress. I will still try to keep it as professional as possible,
+and keep on improving it.
 
-I will be trying to make it as professional as possible, but some aspects such as projects are
-just place holders and not actual projects that I have done (they will be labeled as such).
+Some aspects such as some of the projects are place holders (they will be labeled as such) so that I can
+get more practice with website layout.
 I will limit the contact information shared to places that already link to this github repo.
 
 # Brief overiew
@@ -25,13 +26,13 @@ camelCasing for everything to keep it consistent.
 1. Modified the image to be smaller and wider. Now called "gearImageSmaller.png"
 https://unsplash.com/photos/xH2W1G5VJpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 
-2. Using this as the main background, renamed to "spaceLessResolution.png."
+2. Using this as the main background, renamed to "spaceLessResolution.png"
 https://unsplash.com/photos/E0AHdsENmDg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 
-3. Used part of this image to make the slide show image of Robot vs Dinosaur 2
+3. Used part of this image to make the image "robotVsDino2.png"
 https://unsplash.com/photos/hYKG311mff8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 
-4. Used part of this image to make the slide show image of Robot vs Dinosaur 2
+4. Used part of this image to make the image "robotVsDino2.png"
 https://unsplash.com/photos/MECKPoKJYjM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 
 5. Saved the scaled down version of this image as "scifiTunnel.png" for machine learning project placeholder image
